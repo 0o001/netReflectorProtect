@@ -1,0 +1,6 @@
+C:\Users\musta\source\repos\netReflectorProtect\netReflectorProtect\obj\Debug\netReflectorProtect.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\netReflectorProtect\netReflectorProtect\bin\Debug\netReflectorProtect.exe.config
+C:\Users\musta\source\repos\netReflectorProtect\netReflectorProtect\bin\Debug\netReflectorProtect.exe
+C:\Users\musta\source\repos\netReflectorProtect\netReflectorProtect\bin\Debug\netReflectorProtect.pdb
+C:\Users\musta\source\repos\netReflectorProtect\netReflectorProtect\obj\Debug\netReflectorProtect.exe
+C:\Users\musta\source\repos\netReflectorProtect\netReflectorProtect\obj\Debug\netReflectorProtect.pdb
